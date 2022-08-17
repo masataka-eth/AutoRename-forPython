@@ -1,7 +1,7 @@
 # Library for Solidity bit operation
 
 ## Why
-It is very difficult to change part names when generating generative images! I want to simplify this.
+It is very difficult to change part names when generating "generative images"! I want to simplify this.
 
 ## How to Use
 install Python
@@ -14,6 +14,7 @@ install Python
     - Encoding must be "utf-8"
 4. Select rename folder
     - The folder where all the files to be renamed are located directly under
+    - Need to be in name sort order.
     - The same number of files as the namelist text must appear
 5. Select extension
      - other-> Enter the extension you wish to rename. (no comma)
