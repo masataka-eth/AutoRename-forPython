@@ -1,4 +1,4 @@
-# Library for Solidity bit operation
+# AutoRename-forPython
 
 ## Why
 It is very difficult to change part names when generating "generative images"! I want to simplify this.
