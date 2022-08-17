@@ -1,5 +1,5 @@
-// SPDX-License-Identifier: MIT
-// Created by masataka.eth
+# SPDX-License-Identifier: MIT
+# Created by masataka.eth
 import os
 import tkinter
 from tkinter import filedialog
